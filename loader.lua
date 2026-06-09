@@ -1,4 +1,4 @@
-local key = _G.OLLIE_KEY or "YOUR_KEY_HERE"
+local key = _G.OLLIE_KEY
 
 local function bxor(a, b)
     local r = 0 local bit = 1
